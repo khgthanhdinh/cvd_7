@@ -1,0 +1,7 @@
+model,state,brier_score
+CatBoost,Before Calibration,0.2037927033826878
+CatBoost,After Calibration,0.12496772440122383
+SVM,Before Calibration,0.12197548972872094
+SVM,After Calibration,0.123651256545016
+Logistic,Before Calibration,0.21172061024705602
+Logistic,After Calibration,0.21172061024705602

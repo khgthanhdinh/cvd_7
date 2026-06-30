@@ -1,0 +1,18 @@
+target: num
+nominal:
+- cp
+- restecg
+- thal
+binary:
+- sex
+- fbs
+- exang
+numerical:
+- age
+- trestbps
+- chol
+- thalach
+- oldpeak
+- ca
+ordinal:
+- slope
